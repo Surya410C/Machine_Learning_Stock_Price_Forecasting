@@ -1,4 +1,4 @@
-# 📈 Machine Learning Stock Forecasting Platform with Reinforcement Optimization
+# 📈 Machine Learning Stock Price Forecasting 
 
 A deep learning-based stock price prediction platform that uses an **LSTM (Long Short-Term Memory)** neural network to forecast next-day stock closing prices. Historical data is fetched via Yahoo Finance, preprocessed with MinMax scaling, and the trained model is visualized against actual prices.
 
