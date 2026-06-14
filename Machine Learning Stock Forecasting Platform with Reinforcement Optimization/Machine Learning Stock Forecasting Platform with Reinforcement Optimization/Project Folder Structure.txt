@@ -1,0 +1,19 @@
+stock-price-prediction/
+│
+├── dataset/
+│   └── download_data.py
+│
+├── data/
+│   └── stock_data.csv
+│
+├── models/
+│   └── lstm_model.h5
+│
+├── src/
+│   ├── preprocess.py
+│   ├── train_model.py
+│   ├── predict.py
+│   └── visualize.py
+│
+├── requirements.txt
+└── main.py
